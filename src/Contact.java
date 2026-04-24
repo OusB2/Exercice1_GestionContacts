@@ -1,4 +1,4 @@
-package PACKAGE_NAME;
-
-public class Contact {
+class Contact {
+    String name;
+    String phoneNumber;
 }
